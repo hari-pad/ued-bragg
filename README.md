@@ -1,2 +1,2 @@
 # ued-bragg
-A Python code to analyze and plot Bragg peak dynamics as a function of time, in a UED dataset.
+A Python code to analyze time-resolved electron diffraction data. The code fits, extracts, and plots the dynamics of selected Bragg peaks.
